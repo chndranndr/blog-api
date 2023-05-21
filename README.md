@@ -27,9 +27,6 @@ Run the application:
     # If using Maven
     mvn spring-boot:run
 
-    # If using Gradle
-    gradle bootRun
-
     The API will be accessible at http://localhost:8080/api/posts.
 
 API Endpoints
