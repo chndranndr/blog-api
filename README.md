@@ -12,7 +12,7 @@ This is a simple RESTful API for a blog application built with Spring Boot.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-api.git
+   git clone https://github.com/chndranndr/blog-api.git
    cd blog-api
 
 Build the project:
